@@ -121,7 +121,7 @@ public class Main {
                     if (count >= i) {
                         System.out.print(" ####### ");
                     } else {
-                        System.out.print("         "); // 7 spaces for alignment
+                        System.out.print("         "); // Spaces for alignment
                     }
                 }
                 System.out.println();
